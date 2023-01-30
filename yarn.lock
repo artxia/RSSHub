@@ -5675,10 +5675,10 @@ eslint-visitor-keys@^3.0.0, eslint-visitor-keys@^3.3.0:
   resolved "https://registry.yarnpkg.com/eslint-visitor-keys/-/eslint-visitor-keys-3.3.0.tgz#f6480fa6b1f30efe2d1968aa8ac745b862469826"
   integrity sha512-mQ+suqKJVyeuwGYHAdjMFqjCyfl8+Ldnxuyp3ldiMBFKkvytrXUZWaiPCEav8qDHKty44bD+qV1IP4T+w+xXRA==
 
-eslint@8.32.0:
-  version "8.32.0"
-  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.32.0.tgz#d9690056bb6f1a302bd991e7090f5b68fbaea861"
-  integrity sha512-nETVXpnthqKPFyuY2FNjz/bEd6nbosRgKbkgS/y1C7LJop96gYHWpiguLecMHQ2XCPxn77DS0P+68WzG6vkZSQ==
+eslint@8.33.0:
+  version "8.33.0"
+  resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.33.0.tgz#02f110f32998cb598c6461f24f4d306e41ca33d7"
+  integrity sha512-WjOpFQgKK8VrCnAtl8We0SUOy/oVZ5NHykyMiagV1M9r8IFpIJX7DduK6n1mpfhlG7T1NLWm2SuD8QB7KFySaA==
   dependencies:
     "@eslint/eslintrc" "^1.4.1"
     "@humanwhocodes/config-array" "^0.11.8"
@@ -11583,10 +11583,10 @@ ramda@^0.26.1:
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
   integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
 
-rand-user-agent@1.0.102:
-  version "1.0.102"
-  resolved "https://registry.yarnpkg.com/rand-user-agent/-/rand-user-agent-1.0.102.tgz#dd5977a5dd0e74d79173ed8cc15088dd198462b8"
-  integrity sha512-TdIxJnId95YMcfXlXoBvoxmBVuJPmz4YjdSv/vIldPOYmT6l4sxglBjdkMAaGN9txK0lT1TYZTuNfxmnR4FvCA==
+rand-user-agent@1.0.103:
+  version "1.0.103"
+  resolved "https://registry.yarnpkg.com/rand-user-agent/-/rand-user-agent-1.0.103.tgz#caab50d9a77a7e8fe07be3c4e3c12cbad95676af"
+  integrity sha512-bICq50Z6+gYFrFyExRH+IiHP6rAwZLISyVcTPAvnWjw8bQi7kwXYBoxX0TLTJZPiDOjeEoHiFpeR5bvsLQSrVA==
 
 randombytes@^2.0.0, randombytes@^2.0.1, randombytes@^2.0.5, randombytes@^2.1.0:
   version "2.1.0"
